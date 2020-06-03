@@ -9,7 +9,11 @@
 */
 
 /*
-*for include jsoncons/json.hpp link "https://github.com/danielaparker/jsoncons"
+* for include jsoncons/json.hpp link "https://github.com/danielaparker/jsoncons"
+* download link "https://github.com/danielaparker/jsoncons/releases"
+* Download file from the top link
+* copy 2 file "jsoncons" and "jsoncons_ext"
+* pest "/usr/include" folder for linux
 */
 
 #include <fstream>
